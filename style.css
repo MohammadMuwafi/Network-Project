@@ -1,0 +1,66 @@
+div {
+    width: 100%;
+    border: 2cm;
+    border-color: black;
+}
+
+img {
+    left: 50%;
+    width: 50%;
+    height: 50%;
+}
+
+#greenTitle {
+    color: green;
+}
+
+#mainPage {
+    color: white;
+    background-color: rgb(161, 117, 34);
+}
+
+#bold {
+    font-weight: bold;
+}
+
+#notCorrect {
+    position: relative;
+    padding: 10px;
+    top: 200px;
+    text-align: center;
+}
+
+#r {
+    color: red;
+}
+
+#wp {
+    text-align: center;
+}
+
+#website {
+    color: white;
+}
+
+#hobbies {
+    color: black;
+    background-color: bisque;
+    border: 0.5cm solid black;
+    text-align: left;
+    width: 400px;
+    position: relative;
+    padding: 10px;
+    left: 400px;
+}
+
+#projects {
+    color: black;
+    background-color: bisque;
+    border: 0.5cm solid black;
+    text-align: left;
+    width: 400px;
+    height: auto;
+    position: relative;
+    padding: 10px;
+    left: 400px;
+}
